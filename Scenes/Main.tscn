@@ -62,7 +62,7 @@ position = Vector2( 568, 272 )
 position = Vector2( 648, 272 )
 
 [node name="Alien10" parent="." groups=["Alien"] instance=ExtResource( 5 )]
-position = Vector2( 416, 512 )
+position = Vector2( 728, 272 )
 
 [node name="Alien11" parent="." groups=["Alien"] instance=ExtResource( 5 )]
 position = Vector2( 808, 272 )
